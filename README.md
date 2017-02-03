@@ -29,6 +29,7 @@
 
 * Flexbox 入门：[Using Flexbox today](http://chriswrightdesign.com/experiments/using-flexbox-today/)
 * Flexbox 中级：[Flexbox adventures](http://chriswrightdesign.com/experiments/flexbox-adventures/)
+* Flexbox 工作原理：[How Flexbox works](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35)
 
 #### transition
 
