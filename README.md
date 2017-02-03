@@ -83,4 +83,3 @@
 在线解决有趣又实用的问题，可以通过多种语言（包括 JavaScript）实现，提高综合编程能力。
 
 * [CodeWars](http://www.codewars.com/)
-* [Talentbuddy](https://www.talentbuddy.co/)
